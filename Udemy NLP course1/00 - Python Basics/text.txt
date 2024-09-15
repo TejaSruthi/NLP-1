@@ -1,0 +1,7 @@
+when i use w it will delete the file content 
+ which is already present
+this 
+ line is being appended to this file
+this
+ also
+this is using -a comand along with percent percent writefile
